@@ -15,7 +15,7 @@
 }
 
 header {
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(../images/banner/banner2.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
@@ -110,7 +110,7 @@ margin-bottom: 15px;
 }
 .call-now{
     text-align: left;
-    background-image: url(/images/gradient2.png),url(/images/watch.png);
+    background-image: url(../images/gradient2.png),url(../images/watch.png);
     background-repeat: no-repeat, repeat-y;
     background-size: cover;
     padding-top: 50px;
